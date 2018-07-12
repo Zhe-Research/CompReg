@@ -1,0 +1,15 @@
+# cpp
+src/*.dll
+src/*.o
+
+# R
+.RData
+.Rhistory
+.Rproj.user/
+Run_real/
+Run_simulation/
+
+# emacs
+*~
+
+src-*/
